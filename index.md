@@ -29,3 +29,6 @@ The console `return`s something every time you hit Enter. You can even `console.
 [JS Bin](https://jsbin.com/) is a web development debugging tool. It's a bit of a mash up of the insides of a browser and an online editor. It gives you a playground for HTML, CSS, JavaScript, the Console, and the rendered web page Output.
 
 Here you can write JavaScript in the **JavaScript** tab or in the **Console** tab, and see the output in the Console tab or the Output tab (depending on what you write).
+
+![](img/jsbin-js.png)
+![](img/jsbin-console.png)
