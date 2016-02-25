@@ -1,12 +1,12 @@
 # Exporting an anonymous module
 
 ```JavaScript
-// anonymous.js
+// eam.js
 module.exports = function () {
-  console.log('Hello, anonymous!');
+  console.log('Hello, eam!');
 }
 
 // app.js
-var anonymous = require('./anonymous.js');
-anonymous();
+var eam = require('./eam.js');
+eam();
 ```

@@ -1,12 +1,12 @@
 # Exporting a named module
 
 ```JavaScript
-// named.js
-exports.named = function () {
-  console.log('Hello, named!');
+// myfancyname.js
+exports.myfancymethod = function () {
+  console.log('Hello, myfancyname!');
 }
 
 // app.js
-var named = require('./named.js').named;
-named();
+var myfancyname = require('./myfancyname.js');
+myfancyname.myfancymethod();
 ```
