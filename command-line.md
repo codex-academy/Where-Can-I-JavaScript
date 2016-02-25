@@ -30,9 +30,9 @@ You might have noticed that if you keep all of your JavaScript in one file it ca
 
 Here are a few ways of doing modules.
 
-* [Simple module](./1-simple-module);
-* [Exporting an anonymous module](./2-export-anonymous-module);
-* [Exporting a named module](./3-export-named-module).
+* [Simple module](./simple-module.md);
+* [Exporting an anonymous module](./export-anonymous-module.md);
+* [Exporting a named module](./export-named-module.md).
 
 ---
 
