@@ -32,3 +32,7 @@ Here you can write JavaScript in the **JavaScript** tab or in the **Console** ta
 
 ![](img/jsbin-js.png)
 ![](img/jsbin-console.png)
+
+---
+
+Now let's look at [Running JavaScript on the command line](command-line.md).

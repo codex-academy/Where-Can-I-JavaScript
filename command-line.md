@@ -1,17 +1,27 @@
 # Running JavaScript on the command line
 
-[Node.js](http://nodejs.org/) is an environment that lets you run JavaScript from the command line.
+[Node.js](http://nodejs.org/) is an environment that lets you run JavaScript from the command line. Check that you have Node installed (and what version you have) by running
+
+```
+node -v
+```
+
+## Node and the console
 
 Let's say we have an `index.js` that looks like this:
 
-```
-console.log("ohai, Node JS!");
+```JavaScript
+// index.js
+var greet = "Node Js";
+console.log("ohai, " + greet + "! :)");
 ```
 
-On the command line, we can enter "node index.js" to have Node run the file. The output would be:
+On the command line, we can enter `node index.js` to have Node run the file. The output would be:
 
 ```
-ohai, Node JS!
+// the command line
+$ node index.js
+ohai, Node JS! :)
 ```
 
 ## Modules
@@ -21,5 +31,9 @@ You might have noticed that if you keep all of your JavaScript in one file it ca
 Here are a few ways of doing modules.
 
 * [Simple module](./1-simple-module);
-* [Exporting an anonymous module](./2-export-anonymous);
-* [Exporting a named module](./3-export-named).
+* [Exporting an anonymous module](./2-export-anonymous-module);
+* [Exporting a named module](./3-export-named-module).
+
+---
+
+Last but not least, you can also [run JavaScript in a robot](robots.md).
