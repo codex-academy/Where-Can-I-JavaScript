@@ -37,9 +37,9 @@ Make a new repository called "Where Can I JavaScript?" and put the new bits of w
 
 Here are a few ways of doing modules.
 
-* [Simple module](./simple-module.html);
-* [Exporting an anonymous module](./export-anonymous-module.html);
-* [Exporting a named module](./export-named-module.html).
+* [Simple module](./2-simple-module.html);
+* [Exporting an anonymous module](./3-export-anonymous-module.html);
+* [Exporting a named module](./4-export-named-module.html).
 
 ---
 
