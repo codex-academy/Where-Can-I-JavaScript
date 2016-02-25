@@ -16,7 +16,7 @@ var greet = "Node Js";
 console.log("ohai, " + greet + "! :)");
 ```
 
-On the command line, we can enter `node index.js` to have Node run the file. The output would be:
+On the command line, we can enter `node index.js` to have Node run the file.
 
 ```
 // the command line
@@ -27,6 +27,8 @@ ohai, Node JS! :)
 ## Modules
 
 You might have noticed that if you keep all of your JavaScript in one file it can become messy quite quickly! When we want to split our JavaScript up into some smaller files, we can use **modules**.
+
+Make a new repository called "Where Can I JavaScript?" and put the new bits of work in there. You'll need to `git init` and to add a new repository on GitHub that's linked to your local one.
 
 Here are a few ways of doing modules.
 
