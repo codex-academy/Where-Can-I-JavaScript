@@ -1,8 +1,13 @@
+---
+layout: default
+title: Simple Module
+---
+
 # Simple Module
 
 Here's an example of a simple module set up.
 
-```JavaScript
+```javascript
 // simple.js
 console.log('Hello, simple!');
 

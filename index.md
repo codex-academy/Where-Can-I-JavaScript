@@ -1,3 +1,8 @@
+---
+layout: default
+title: Where Can I JavaScript?
+---
+
 # Where Can I JavaScript?
 
 There are lots of places to **write** and to **run** JavaScript.
@@ -8,7 +13,7 @@ We almost always **write JavaScript** in our editor (Atom or Sublime).
 
 The first place we see JavaScript running is in the browser. Most web sites you visit use JavaScript to add behaviour or funky interactions to the page. The browser loads an HTML page. Inside there somewhere will be a `script` tag, probably like this:
 
-```
+```html
 <script src="app.js"></script>
 ```
 
@@ -35,4 +40,4 @@ Here you can write JavaScript in the **JavaScript** tab or in the **Console** ta
 
 ---
 
-Now let's look at [Running JavaScript on the command line](command-line.md).
+Now let's look at [Running JavaScript on the command line](command-line.html).

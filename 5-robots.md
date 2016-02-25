@@ -1,3 +1,8 @@
+---
+layout: default
+title: Running JavaScript in Robots
+---
+
 # Running JavaScript in Robots
 
 Yes, really!

@@ -1,6 +1,11 @@
+---
+layout: default
+title: Exporting a named module
+---
+
 # Exporting a named module
 
-```JavaScript
+```javascript
 // myfancyname.js
 exports.myfancymethod = function () {
   console.log('Hello, myfancyname!');

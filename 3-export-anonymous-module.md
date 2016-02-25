@@ -1,8 +1,13 @@
+---
+layout: default
+title: Exporting an anonymous module
+---
+
 # Exporting an anonymous module
 
 Here's an example of exporting an anonymous (no name!) function.
 
-```JavaScript
+```javascript
 // eam.js
 module.exports = function () {
   console.log('Hello, eam!');
