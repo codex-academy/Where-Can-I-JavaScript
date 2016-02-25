@@ -40,4 +40,4 @@ Here you can write JavaScript in the **JavaScript** tab or in the **Console** ta
 
 ---
 
-Now let's look at [Running JavaScript on the command line](command-line.html).
+Now let's look at [Running JavaScript on the command line](1-command-line.html).
