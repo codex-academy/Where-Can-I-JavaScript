@@ -31,12 +31,13 @@ ohai, Node JS! :)
 
 ## Modules
 
-You might have noticed that if you keep all of your JavaScript in one file it can become messy quite quickly! When we want to split our JavaScript up into some smaller files, we can use **modules**.
+You might have noticed that if you keep all your JavaScript in one file it can become messy quite quickly! When we want to split our JavaScript up into some smaller files, we can use **modules**.
 
 Make a new repository called "Where Can I JavaScript?" and put the new bits of work in there. You'll need to `git init` and to add a new repository on GitHub that's linked to your local one.
 
 Here are a few ways of doing modules.
 
+<!--codex ignore simple-->
 * [Simple module](./2-simple-module.html);
 * [Exporting an anonymous module](./3-export-anonymous-module.html);
 * [Exporting a named module](./4-export-named-module.html).

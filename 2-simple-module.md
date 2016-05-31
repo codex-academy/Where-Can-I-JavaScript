@@ -2,9 +2,9 @@
 layout: default
 title: Simple Module
 ---
-
+<!--codex ignore simple-->
 # Simple Module
-
+<!--codex ignore simple-->
 Here's an example of a simple module set up.
 
 ```javascript
